@@ -1,0 +1,42 @@
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Obteniendo perfil para el usuario ID: 1"}
+{"level":"info","message":"Perfil recuperado exitosamente para el usuario ID: 1"}
+{"level":"info","message":"Intento de autenticación","token":"eyJhbGciOiJIUzI1NiIs..."}
+{"level":"info","message":"Token verificado exitosamente","userId":1}
+{"level":"info","message":"Obteniendo perfil para el usuario ID: 1"}
+{"level":"info","message":"Perfil recuperado exitosamente para el usuario ID: 1"}
+{"level":"info","message":"Intento de autenticación","token":"eyJhbGciOiJIUzI1NiIs..."}
+{"level":"info","message":"Token verificado exitosamente","userId":1}
+{"level":"info","message":"Obteniendo perfil para el usuario ID: 1"}
+{"level":"info","message":"Perfil recuperado exitosamente para el usuario ID: 1"}
+{"level":"info","message":"Intento de autenticación","token":"eyJhbGciOiJIUzI1NiIs..."}
+{"level":"info","message":"Token verificado exitosamente","userId":1}
+{"level":"info","message":"Obteniendo perfil para el usuario ID: 1"}
+{"level":"info","message":"Perfil recuperado exitosamente para el usuario ID: 1"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de autenticación","token":"undefined..."}
+{"level":"warn","message":"Intento de acceso sin token"}
+{"level":"info","message":"Intento de inicio de sesión para el email: admin@example.com"}
+{"level":"info","message":"Inicio de sesión exitoso para el email: admin@example.com"}
+{"level":"info","message":"Intento de autenticación","token":"eyJhbGciOiJIUzI1NiIs..."}
+{"level":"info","message":"Token verificado exitosamente","userId":1}
+{"level":"info","message":"Obteniendo perfil para el usuario ID: 1"}
+{"level":"info","message":"Perfil recuperado exitosamente para el usuario ID: 1"}

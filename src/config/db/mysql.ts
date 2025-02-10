@@ -8,6 +8,10 @@ export const mysqlConnection = new DataSource({
     username: process.env.MYSQL_USER,
     password: process.env.MYSQL_PASSWORD,
     database: process.env.MYSQL_DB,
-    entities: [__dirname + '/../../models/*.ts'],
+    entities: [__dirname + '/../../models/*.ts',__dirname + '/../../models/**/*.ts'],
     synchronize: true,
 });
+
+
+
+export default mysqlConnection;
